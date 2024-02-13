@@ -1,6 +1,6 @@
 # SIEMBRA GT
 Primer invento para el curso de Técnicas de la Investigación de FISICC.
-![](/logo2.jpeg)
+![](/logo2.png)
 
 ## Integrantes de Circuitos Maestros
 ![](/f2.jpeg)
@@ -17,4 +17,5 @@ Pedro Pablo Perdomo Girón (24004470)
 
 Jose Guillermo Ortiz Reyes (24000481)
 
-# diegof95.github.io
+# Página web
+diegof95.github.io
